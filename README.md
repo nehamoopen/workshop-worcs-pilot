@@ -1,6 +1,7 @@
 # Writing A Reproducible Manuscript in R with WORCS
 
-[![go to the course website](https://img.shields.io/badge/go%20to%20the-course%20website-blue)](https://nehamoopen.github.io/workshop-worcs-pilot/)
+[![go the course website](https://img.shields.io/badge/go%20to%20the-course%20website-blue)](https://nehamoopen.github.io/workshop-worcs-pilot/)
+[![go the GitHub repo](https://img.shields.io/badge/go%20to%20the-GitHub%20repo-yellow)](https://github.com/nehamoopen/workshop-worcs-pilot)]
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
 
 This repository contains materials for the single-day workshop ['Writing a Reproducible Paper in R with WORCS'](https://www.uu.nl/en/events/writing-a-reproducible-paper-in-r-with-worcs) at Utrecht University.  
@@ -18,7 +19,7 @@ This workshop will be taught by [Research Data Management Support](https://www.u
 ![WORCS workflow](https://github.com/cjvanlissa/worcs/raw/master/paper/workflow_graph/workflow.png)
 
 ## Upcoming Workshops
-This is a pilot workshop. Upcoming workshopgs will be featured on RDM Support's [trainings & workshops](https://www.uu.nl/en/research/research-data-management/training-workshops) page and the university's [Events](https://www.uu.nl/en/organisation/current-affairs/events) page, in addition to the Intranet and various (internal) newsletters. 
+This is a pilot workshop. Upcoming workshops will be featured on RDM Support's [trainings & workshops](https://www.uu.nl/en/research/research-data-management/training-workshops) page and the university's [Events](https://www.uu.nl/en/organisation/current-affairs/events) page, in addition to the Intranet and various (internal) newsletters. 
 
 ## Setup & Installation Requirements
 Please work through the [Setup Vignette: Setting up your computer for WORCS](https://cjvanlissa.github.io/worcs/articles/setup.html) prior to the workshop. If you run into issues during setup and installation, you can contact your instructors to help resolve them.
@@ -97,7 +98,7 @@ For a list of sample `worcs` projects created by the `worcs` authors and other u
 
 ## Acknowledgements
 
-This workshop was developed by [Research Data Management Support](https://www.uu.nl/en/research/research-data-management) at Utrecht University, in collaboration with [Caspar van Lissa](https://github.com/cjvanlissa). The workshop documentation was written by [Neha Moopen](https://github.com/nehamoopen) and [Bianca Kramer](https://github.com/bmkramer), based on an [earlier workshop](https://bvreede.github.io/worcshop/) by [Barbara Vreede](https://github.com/bvreede).
+This workshop was developed by [Research Data Management Support](https://www.uu.nl/en/research/research-data-management) at Utrecht University, in collaboration with [Caspar van Lissa](https://github.com/cjvanlissa). The [workshop repository and documentation](https://github.com/nehamoopen/workshop-worcs-pilot) was set up by [Neha Moopen](https://github.com/nehamoopen) and [Bianca Kramer](https://github.com/bmkramer), based on an [earlier workshop](https://bvreede.github.io/worcshop/) by [Barbara Vreede](https://github.com/bvreede).
 
 **Image attribution**  
 The [Git Logo](https://git-scm.com/) by Jason Long is licensed under the Creative Commons Attribution 3.0 Unported License. The [OSF logo](https://osf.io/) is licensed under CC0 1.0 Universal. Icons in the workflow graph are obtained from [Flaticon](https://www.flaticon.com); see [detailed attribution](https://github.com/cjvanlissa/worcs/blob/master/paper/workflow_graph/Attribution_for_images.txt).
