@@ -13,12 +13,12 @@ For those who would like to get started with an open and reproducible workflow, 
 
 WORCS is an R package that takes you from data to published paper in a single streamlined workflow, making the entire process of your analysis, up to the submission of your manuscript, reproducible. The WORCS workflow optionally facilitates pre-registration, sharing your code and your data (safely!), and the submission of a pre-print.
 
-This workshop will be taught by UU's [Research Data Management Support](https://www.uu.nl/en/research/research-data-management) in collaboration with [Caspar van Lissa](https://github.com/cjvanlissa), author of the `worcs` package and the WORCS workflow. We will give you an overview of the workflow and introduce you to its use. You will create your first reproducible project by going through all steps of the workflow yourself.
+This workshop will be taught by [Research Data Management Support](https://www.uu.nl/en/research/research-data-management) in collaboration with [Caspar van Lissa](https://github.com/cjvanlissa), author of the `worcs` package and the WORCS workflow. We will give you an overview of the workflow and introduce you to its use. You will create your first reproducible project by going through all steps of the workflow yourself.
 
 ![WORCS workflow](https://github.com/cjvanlissa/worcs/raw/master/paper/workflow_graph/workflow.png)
 
 ## Upcoming Workshops
-This is a pilot workshop. Upcoming workshopgs will be featured on RDM Support's [trainings & workshops](https://www.uu.nl/en/research/research-data-management/training-workshops) page and the university's [Events](https://www.uu.nl/en/organisation/current-affairs/events) page, in addition to the UU Intranet and various (internal) newsletters. 
+This is a pilot workshop. Upcoming workshopgs will be featured on RDM Support's [trainings & workshops](https://www.uu.nl/en/research/research-data-management/training-workshops) page and the university's [Events](https://www.uu.nl/en/organisation/current-affairs/events) page, in addition to the Intranet and various (internal) newsletters. 
 
 ## Setup & Installation Requirements
 Please work through the [Setup Vignette: Setting up your computer for WORCS](https://cjvanlissa.github.io/worcs/articles/setup.html) prior to the workshop. If you run into issues during setup and installation, you can contact your instructors to help resolve them.
@@ -58,7 +58,7 @@ data <- palmerpenguins::penguins
 Alternatively, you can download one of these versions of the data, and load them yourself:
 - An SPSS file ([penguins.sav](https://raw.githubusercontent.com/nehamoopen/workshop-worcs-pilot/main/data/penguins.sav))
 - An Excel file ([penguins.xlsx](https://raw.githubusercontent.com/nehamoopen/workshop-worcs-pilot/main/data/penguins.xlsx))
-- A CSV file ([penguins.csv](https://raw.githubusercontent.com/nehamoopenworkshop-worcs-pilot/main/data/penguins.csv))
+- A CSV file ([penguins.csv](https://raw.githubusercontent.com/nehamoopen/workshop-worcs-pilot/main/data/penguins.csv))
 
 ## Workshop Program
 Links to a step-by-step guide for each part of the workshop are provided below, taken from the [WORCS Workflow Vignette](https://cjvanlissa.github.io/worcs/articles/workflow.html).
