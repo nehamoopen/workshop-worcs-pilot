@@ -71,14 +71,12 @@ Links to a step-by-step guide for each part of the workshop are provided below, 
 Some researchers might want to share their work only once the paper is accepted for publication. In this case, we recommend creating a "Private" repository in Step 1, and completing Steps 13-17 upon acceptance by the journal.
 
 
-## Sample WORCS projects
-
-For a list of sample `worcs` projects created by the authors and other users, see the [`README.md` file on the WORCS GitHub page](https://github.com/cjvanlissa/worcs). This list is regularly updated.
-
-
-
 ## Additional resources
 This [paper in Data Science](https://doi.org/10.3233/DS-210031) introduces the WORCS workflow, explains the underlying tools, and illustrates how the `worcs` package can be used to create a new project that follows the workflow.
+
+
+**Sample WORCS projects**
+For a list of sample `worcs` projects created by the authors and other users, see the [`README.md` file on the WORCS GitHub page](https://github.com/cjvanlissa/worcs). This list is regularly updated.
 
 
 ## Acknowledgements
