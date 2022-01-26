@@ -13,7 +13,7 @@ WORCS is an R package that takes you from data to published paper in a single st
 
 This workshop will be taught by [RDM Support](https://www.uu.nl/en/research/research-data-management)  in collaboration with [Caspar van Lissa](https://github.com/cjvanlissa), the author of the `worcs` package and WORCS workflow. We will give you an overview of the workflow and introduce you to its use. You will create your first reproducible project by going through all steps of the workflow yourself. 
 
-[insert image]
+![WORCS workflow](https://github.com/cjvanlissa/worcs/raw/master/paper/workflow_graph/workflow.png)
 
 ## Upcoming workshops
 This is a pilot workshop. For upcoming workshops check [uu.nl/rdm](https://www.uu.nl/en/research/research-data-management/training-workshops/introduction-to-r-data) for upcoming workshops.
