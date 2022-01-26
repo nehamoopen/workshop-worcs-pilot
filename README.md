@@ -90,10 +90,10 @@ Some researchers might want to share their work only once the paper is accepted 
 
 - The `worcs` [GitHub repo](https://github.com/cjvanlissa/worcs) & [package documentation](https://cjvanlissa.github.io/worcs/index.html)  
 
+- R Markdown [cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+
 **Sample WORCS projects**  
 For a list of sample `worcs` projects created by the `worcs` authors and other users, see the [`README.md` file on the WORCS GitHub page](https://github.com/cjvanlissa/worcs). This list is regularly updated.
-
-- R Markdown [cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 
 ## Acknowledgements
 
