@@ -97,9 +97,7 @@ For a list of sample `worcs` projects created by the `worcs` authors and other u
 
 ## Acknowledgements
 
-This workshop was developed by [Research Data Management Support](https://www.uu.nl/en/research/research-data-management) at Utrecht University, in collaboration with [Caspar van Lissa](https://github.com/cjvanlissa). 
-
-The workshop documentation was written by [Neha Moopen](https://github.com/nehamoopen) and [Bianca Kramer](https://github.com/bmkramer), based on an [earlier workshop](https://bvreede.github.io/worcshop/) by [Barbara Vreede](https://github.com/bvreede).
+This workshop was developed by [Research Data Management Support](https://www.uu.nl/en/research/research-data-management) at Utrecht University, in collaboration with [Caspar van Lissa](https://github.com/cjvanlissa). The workshop documentation was written by [Neha Moopen](https://github.com/nehamoopen) and [Bianca Kramer](https://github.com/bmkramer), based on an [earlier workshop](https://bvreede.github.io/worcshop/) by [Barbara Vreede](https://github.com/bvreede).
 
 **Image attribution**  
 The [Git Logo](https://git-scm.com/) by Jason Long is licensed under the Creative Commons Attribution 3.0 Unported License. The [OSF logo](https://osf.io/) is licensed under CC0 1.0 Universal. Icons in the workflow graph are obtained from [Flaticon](https://www.flaticon.com); see [detailed attribution](https://github.com/cjvanlissa/worcs/blob/master/paper/workflow_graph/Attribution_for_images.txt).
