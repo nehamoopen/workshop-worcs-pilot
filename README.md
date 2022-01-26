@@ -1,6 +1,7 @@
 # Writing A Reproducible Manuscript in R with WORCS
 
 [![go to the course website](https://img.shields.io/badge/go%20to%20the-course%20website-blue)](https://nehamoopen.github.io/workshop-worcs-pilot/)
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
 
 This repository contains materials for the single-day workshop ['Writing a Reproducible Paper in R with WORCS'](https://www.uu.nl/en/events/writing-a-reproducible-paper-in-r-with-worcs) at Utrecht University.  
 
@@ -66,7 +67,9 @@ Links to a step-by-step guide for each part of the workshop are provided below, 
 |:--------|:-------|:------|
 | Phase 1: Study Materials | [step-by-step guide](https://cjvanlissa.github.io/worcs/articles/workflow.html#phase-1-study-design) | - |
 | Phase 2: Writing & Analysis | [step-by-step guide](https://cjvanlissa.github.io/worcs/articles/workflow.html#phase-2-writing-and-analysis) | [citing references in WORCS](https://cjvanlissa.github.io/worcs/articles/citation.html) |
-| Phase 3: Submission & Publication | [step-by-step guide](https://cjvanlissa.github.io/worcs/articles/workflow.html#phase-3-submission-and-publication) |  |
+| Phase 3: Submission & Publication | [step-by-step guide](https://cjvanlissa.github.io/worcs/articles/workflow.html#phase-3-submission-and-publication) | - |
+
+If you're new to R Markdown, here's a handy [cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)!
 
 ### Notes for cautious researchers
 
@@ -89,6 +92,8 @@ Some researchers might want to share their work only once the paper is accepted 
 
 **Sample WORCS projects**  
 For a list of sample `worcs` projects created by the `worcs` authors and other users, see the [`README.md` file on the WORCS GitHub page](https://github.com/cjvanlissa/worcs). This list is regularly updated.
+
+- R Markdown [cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 
 ## Acknowledgements
 
