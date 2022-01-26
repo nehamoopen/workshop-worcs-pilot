@@ -1,6 +1,6 @@
 # Writing A Reproducible Manuscript in R with WORCS
 
-This repository contains the documentation, exercises and datasets of the single day workshop ['Introduction to R & data'](https://www.uu.nl/en/research/research-data-management/training-workshops/introduction-to-r-data) at Utrecht University.
+This repository contains the documentation, exercises and datasets of the single day workshop ['Writing a Reproducible Paper in R with WORCS'](https://www.uu.nl/en/research/research-data-management/training-workshops/introduction-to-r-data) at Utrecht University.
 The workshop is organised by [Research Data Management Support](https://www.uu.nl/en/research/research-data-management).
 
 ## Workshop description
@@ -11,11 +11,11 @@ For those who would like to get started with an open and reproducible workflow, 
 
 WORCS is an R package that takes you from data to published paper in a single streamlined workflow, making the entire process of your analysis, up to the submission of your manuscript, reproducible. The WORCS workflow optionally facilitates pre-registration, sharing your code and your data (safely!), and the submission of a pre-print.
 
-This workshop will be taught by [RDM Support](https://www.uu.nl/en/research/research-data-management)  in collaboration with [Caspar van Lissa](https://github.com/cjvanlissa), the author of the WORCS package. We will give you an overview of the workflow and introduce you to its use. You will create your first reproducible project by going through all steps of the workflow yourself. 
+This workshop will be taught by [RDM Support](https://www.uu.nl/en/research/research-data-management)  in collaboration with [Caspar van Lissa](https://github.com/cjvanlissa), the author of the `worcs` package and WORCS workflow. We will give you an overview of the workflow and introduce you to its use. You will create your first reproducible project by going through all steps of the workflow yourself. 
 
 
 ## Upcoming workshops
-Check [uu.nl/rdm](https://www.uu.nl/en/research/research-data-management/training-workshops/introduction-to-r-data) for upcoming workshops.
+This is a pilot workshop. For upcoming workshops check [uu.nl/rdm](https://www.uu.nl/en/research/research-data-management/training-workshops/introduction-to-r-data) for upcoming workshops.
 Registration is mandatory, and opens 2 months in advance of the course.
 
 ## Installation requirements
@@ -56,7 +56,7 @@ data <- palmerpenguins::penguins
 ```
 
 ## Workshop programme
-Links to a step-by-step guide for each part of the workshop are provided below. 
+Links to a step-by-step guide for each part of the workshop are provided below, taken from the [WORCS Workflow vignette](https://cjvanlissa.github.io/worcs/articles/workflow.html)
 
 
 | Subject | Link | Additional information |
@@ -76,15 +76,14 @@ For a list of sample `worcs` projects created by the authors and other users, se
 
 
 
-### Additional resources
-
-
+## Additional resources
+This [paper in Data Science](https://doi.org/10.3233/DS-210031) introduces the WORCS workflow, explains the underlying tools, and illustrates how the `worcs` package can be used to create a new project that follows the workflow.
 
 
 ## Acknowledgements
 The workshop 'Introduction to R & data' is developed and maintained by [Research Data Management Support](https://www.uu.nl/en/research/research-data-management) at Utrecht University.
 All videos were recorded by [Jacques Flores](https://www.uu.nl/medewerkers/jpflores).
-The material was written by [Barbara Vreede](https://github.com/bvreede), based on earlier versions by [Jonathan de Bruin](https://github.com/J535D165) and [Tessa Pronk](https://github.com/TessaPr).
+The workshop documentation was written by [Neha Moopen Vreede](https://github.com/nehamoopen) and [Bianca Kramer Vreede](https://github.com/bmkramer), based on an earlier versions by [Barbara Vreede](https://github.com/bvreede).
 
 
 **Image attribution**
