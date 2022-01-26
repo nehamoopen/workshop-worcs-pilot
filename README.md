@@ -44,7 +44,7 @@ We are always available for 1:1 support during these times, and reconvene in the
 
 
 ## Data 
-You are encourages to use your own data, code and manuscript text during the workshop.  
+You are encouraged to use your own data, code and manuscript text during the workshop.  
 If you do not have own data, you can use [Allison Horst's Penguin dataset](https://github.com/allisonhorst/palmerpenguins).
 
 You can use this data by entering the following code in the `prepare_data.R` script:
@@ -74,7 +74,7 @@ Some researchers might want to share their work only once the paper is accepted 
 This [paper in Data Science](https://doi.org/10.3233/DS-210031) introduces the WORCS workflow, explains the underlying tools, and illustrates how the `worcs` package can be used to create a new project that follows the workflow.
 
 
-### Sample WORCS projects
+**Sample WORCS projects**
 For a list of sample `worcs` projects created by the authors and other users, see the [`README.md` file on the WORCS GitHub page](https://github.com/cjvanlissa/worcs). This list is regularly updated.
 
 
@@ -84,5 +84,5 @@ All videos were recorded by [Jacques Flores](https://www.uu.nl/medewerkers/jpflo
 The workshop documentation was written by [Neha Moopen Vreede](https://github.com/nehamoopen) and [Bianca Kramer Vreede](https://github.com/bmkramer), based on an earlier versions by [Barbara Vreede](https://github.com/bvreede).
 
 
-**Image attribution**
+**Image attribution**  
 The [Git Logo](https://git-scm.com/) by Jason Long is licensed under the Creative Commons Attribution 3.0 Unported License. The [OSF logo](https://osf.io/) is licensed under CC0 1.0 Universal. Icons in the workflow graph are obtained from [Flaticon](https://www.flaticon.com); see [detailed attribution](https://github.com/cjvanlissa/worcs/blob/master/paper/workflow_graph/Attribution_for_images.txt).
