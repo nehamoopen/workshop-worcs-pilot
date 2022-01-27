@@ -49,7 +49,9 @@ Instructors will be available for 1:1 support during these times, and reconvene 
 You are encouraged to use your own data, code, and manuscript text during the workshop.  
 
 If you do not have your own data, you can use [Allison Horst's Penguin dataset](https://github.com/allisonhorst/palmerpenguins).  
-You can use this data by entering the following code in the `prepare_data.R` script:
+You can use this data by entering the following code in the `prepare_data.R` script.
+
+In case you need some code to run with the Penguin data, you can use some of the [example code](https://allisonhorst.github.io/palmerpenguins/articles/examples.html) on the `palmerpenguins` R package website.
 
 ``` r
 install.packages("remotes")
