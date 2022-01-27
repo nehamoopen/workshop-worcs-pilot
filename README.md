@@ -1,7 +1,7 @@
 # Writing A Reproducible Manuscript in R with WORCS
 
 [![go the course website](https://img.shields.io/badge/go%20to%20the-course%20website-blue)](https://nehamoopen.github.io/workshop-worcs-pilot/)
-[![go the GitHub repo](https://img.shields.io/badge/go%20to%20the-GitHub%20repo-yellow)](https://github.com/nehamoopen/workshop-worcs-pilot)]
+[![go the GitHub repo](https://img.shields.io/badge/go%20to%20the-GitHub%20repo-yellow)](https://github.com/nehamoopen/workshop-worcs-pilot)
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
 
 This repository contains materials for the single-day workshop ['Writing a Reproducible Paper in R with WORCS'](https://www.uu.nl/en/events/writing-a-reproducible-paper-in-r-with-worcs) at Utrecht University.  
