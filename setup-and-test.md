@@ -1,4 +1,4 @@
-# PREPARATION: Setup & Test
+# PREPARATION FOR WORCS WORKSHOP: Setup & Test
 
 This preparation guide consists of three sections:
 
