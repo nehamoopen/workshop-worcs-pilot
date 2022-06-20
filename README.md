@@ -22,7 +22,7 @@ This workshop will be taught by [Research Data Management Support](https://www.u
 This is a pilot workshop. Upcoming workshops will be featured on RDM Support's [trainings & workshops](https://www.uu.nl/en/research/research-data-management/training-workshops) page and the university's [Events](https://www.uu.nl/en/organisation/current-affairs/events) page, in addition to the Intranet and various (internal) newsletters. 
 
 ## Setup & Installation Requirements
-Please work through the [Setup Vignette: Setting up your computer for WORCS](https://cjvanlissa.github.io/worcs/articles/setup.html) prior to the workshop. If you run into issues during setup and installation, you can contact your instructors to help resolve them.
+Please work through the [Setup & Test] instructions (https://nehamoopen.github.io/workshop-worcs-pilot/setup-and-test.html) prior to the workshop. If you run into issues during setup and installation, you can contact your instructors to help resolve them.
 
 ## Schedule
 This workshop will be given online. Participants will therefore do most exercises independently, using the step-by-step guides provided.
