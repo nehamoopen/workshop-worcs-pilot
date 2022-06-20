@@ -2,9 +2,9 @@
 
 This preparation guide consists of three sections:
 
-1. Setting Up Your Computer For WORCS
-2. Test Your Setup
-3. Troubleshooting
+1. [Setting Up Your Computer For WORCS](https://nehamoopen.github.io/workshop-worcs-pilot/setup-and-test.html#setting-up-your-computer-for-worcs)
+2. [Test Your Setup](https://nehamoopen.github.io/workshop-worcs-pilot/setup-and-test.html#test-your-setup)
+3. [Troubleshooting](https://nehamoopen.github.io/workshop-worcs-pilot/setup-and-test.html#troubleshooting)
 
 The instructions guide you through the installation and testing of several software packages, and registration on GitHub. In case some of the software is already installed on your system, you can skip those related steps. 
 If you run into any issues, please don’t hesitate to ask for help during our drop-in call for _Installation & Set-Up Support_ or by emailing Neha Moopen (n.moopen@uu.nl). Try not to leave them until the morning of the workshop!  
